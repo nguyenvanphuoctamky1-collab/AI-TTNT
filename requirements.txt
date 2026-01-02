@@ -1,0 +1,39 @@
+// Deep Learning and Neural Networks
+tensorflow-gpu==2.15.0
+keras==3.0.0
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==2.1.1
+
+// Computer Vision
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+pillow==10.1.0
+scikit-image==0.22.0
+
+// Data Processing and Analysis
+numpy==1.24.3
+pandas==2.1.3
+scipy==1.11.4
+scikit-learn==1.3.2
+
+// Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+
+// Utilities
+jupyter==1.0.0
+jupyterlab==4.0.9
+ipython==8.17.2
+tqdm==4.66.1
+
+// Model Serialization
+h5py==3.10.0
+pickle5==0.0.12
+
+// Additional Tools
+flask==3.0.0
+requests==2.31.0
+pyyaml==6.0.1
+python-dotenv==1.0.0
